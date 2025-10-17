@@ -1,2 +1,3 @@
 # collage-demo
-thismy first gitup repository
+this  my first gitup repository
+Authour Raheem Bakhsh
